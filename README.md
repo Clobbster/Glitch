@@ -20,3 +20,15 @@ It seems to have been proven that data can be conveyed and understood at a much 
 - Whether a "shorthand" can be achieved or not, the final success criteria would be for the speed of Glitch to be increased as close to the point of incoherence as possible without losing comprehension.
 
 I came across this idea by listening to binary and associating it to particular 8bit sounds that were used to identify Pokemon during my childhood gameboy adventures. This is one idea of many that I've had to combat the current limitations of my brain's processing speed. 
+
+#####################################
+
+Alone, I don't believe that Glitch will have much usefullness other than to prove my own curiosity true/false. I believe that the real power of Glitch of something similar is after our Brain Computer Interfaces (BCI's) have improved to a point that allows for fast and reliable brain input/output processing. 
+
+# Imagine:
+
+A BCI processor that is able to translate a person's thoughts into Glitch and convey the data through a Relay. 
+
+Now imagine another human that receives the Glitch message through their receiver and their processor sends it directly to the brain. 
+
+Efficiency will have been improved over speech. I believe that wireless telepathic communication is an inevitability given a continued rate of technological advancement. 
